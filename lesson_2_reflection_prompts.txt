@@ -4,6 +4,8 @@ named '.git',it also show me the message -- repo initlize.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Obviously,staging area just keep the changes of the files you Traced,but it
+will not tell you the history of what you have fixed.The repo works here.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
