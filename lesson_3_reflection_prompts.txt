@@ -11,7 +11,7 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork,obviously,is a action from server to server,it will not influence your locale repo.Clone will make a copy from the .git repo on the github you order to the locale.Branch occur here is not very reasonable,it's just related to the commit.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
